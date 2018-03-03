@@ -1,0 +1,18 @@
+/*
+.missao strong {
+	color: red;
+}
+
+
+article strong {
+	color: blue;
+}
+
+article > .importante > strong {
+	color: red;
+}
+*/
+
+article .importante > strong {
+	color: red;
+}
